@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Phan Hồng Phúc!  
 ### 💻 Full-Stack Developer | Passionate about AI & Web Development  
 
-I am a third-year Software Engineering student at the University of Science, VNU HCM, with a passion for information technology and software development. My goal is to apply the knowledge and skills I have acquired to address real-world problems in the technology industry while enhancing my research capabilities and personal development through involvement in software projects and scholarship programs. I aspire to become an outstanding software engineer who can make positive contributions to the advancement of the technology industry.
+I am a final-year Software Engineering student at the University of Science, VNU HCM, with a passion for information technology and software development. My goal is to apply the knowledge and skills I have acquired to address real-world problems in the technology industry while enhancing my research capabilities and personal development through involvement in software projects and scholarship programs. I aspire to become an outstanding software engineer who can make positive contributions to the advancement of the technology industry.
 
 🎓 **Education**: Software Engineering Student @ University of Science, VNU HCM  
 🌱 **Currently Learning**: Next.js, Golang, AI integration in Web Apps  
